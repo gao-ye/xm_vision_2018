@@ -1,0 +1,12 @@
+roll_paper
+water
+sprite
+chips
+milk
+porridge
+soap
+laoganma
+ice_tea
+cola
+coffee
+toothpaste
